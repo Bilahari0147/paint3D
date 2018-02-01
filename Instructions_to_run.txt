@@ -1,3 +1,4 @@
+install open gl libraries
 Open the file paint folder
 Compile: g++ paint3d.cpp -lglut -lGL
 run:./a.out
